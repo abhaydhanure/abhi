@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"id": 1,
+             "name": "Learn Angular",
+              "description":"hey abhay is 22 years old",
+               "image":"../../assets/img1.jpg"
+        }
+    ]
+}
